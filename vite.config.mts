@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   return {
     plugins: [
       angular(),
-      
+
     ],
     test: {
       globals: true,
@@ -17,6 +17,11 @@ export default defineConfig(({ mode }) => {
       setupFiles: ['src/test-setup.ts'],
       include: ['**/*.spec.ts'],
       reporters: ['default'],
+      server: {
+        deps: {
+          inline: ['devextreme-angular'],
+        },
+      },
     },
     define: {
       'import.meta.vitest': mode !== 'production',

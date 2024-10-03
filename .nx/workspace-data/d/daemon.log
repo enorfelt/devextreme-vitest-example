@@ -1,0 +1,22 @@
+[NX Daemon Server] - 2024-10-03T07:34:13.992Z - Started listening on: \\.\pipe\nx\C:\Users\ERIK~1.NOR\AppData\Local\Temp\c48b013eae28a192e58b\d.sock
+[NX Daemon Server] - 2024-10-03T07:34:13.996Z - [WATCHER]: Subscribed to changes within: c:\src\devextreme-vitest-example (native)
+[NX Daemon Server] - 2024-10-03T07:34:14.006Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-03T07:34:14.008Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-03T07:34:14.008Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-03T07:34:14.010Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-03T07:34:14.012Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-03T07:34:14.012Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-10-03T07:34:14.012Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-03T07:34:14.012Z - [WATCHER]: Stopping the watcher for c:\src\devextreme-vitest-example (sources)
+[NX Daemon Server] - 2024-10-03T07:34:14.013Z - [WATCHER]: Stopping the watcher for c:\src\devextreme-vitest-example (outputs)
+[NX Daemon Server] - 2024-10-03T07:34:14.554Z - Started listening on: \\.\pipe\nx\C:\Users\ERIK~1.NOR\AppData\Local\Temp\c48b013eae28a192e58b\d.sock
+[NX Daemon Server] - 2024-10-03T07:34:14.557Z - [WATCHER]: Subscribed to changes within: c:\src\devextreme-vitest-example (native)
+[NX Daemon Server] - 2024-10-03T07:34:14.561Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-03T07:34:14.563Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-03T07:34:14.564Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-03T07:34:14.566Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-03T07:34:14.568Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-03T07:34:14.568Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-10-03T07:34:14.568Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-03T07:34:14.568Z - [WATCHER]: Stopping the watcher for c:\src\devextreme-vitest-example (sources)
+[NX Daemon Server] - 2024-10-03T07:34:14.569Z - [WATCHER]: Stopping the watcher for c:\src\devextreme-vitest-example (outputs)
